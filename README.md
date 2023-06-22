@@ -1,4 +1,4 @@
-Smiling Girl Sitting At Laptop And Learning Coding Stock Vector ...
+
 
 
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
