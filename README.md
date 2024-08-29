@@ -15,18 +15,6 @@ I am an intermediate web developer, graphic and software engineer. I am always e
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anumish20&label=Profile%20views&color=32CD32&style=flat" alt="Anumish20" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-### `Coding Profiles:`
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/akankushjnvku/)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akankush2000/profile)
-[![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile)
-[![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/ak_ankush2000)
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com)
-[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com)
-[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)
-
 - 🌱 I’m currently in love with <b>Web designing.</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
@@ -44,28 +32,17 @@ technologies to meet future requirements.</br>
 - Classification
 - Clustering
 - Anomaly Detection
-- Similarity Measure
 
  ### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
 
 
 - any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- Web Development projects(development or research),
+- research internships  and jobs
 
 <details>
    <summary>📃 Resume</summary>
 
- ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
- 📖**Bachelor's of technology-< Information Technology >**
- 
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
-   📖**Senior Secondary Schooling-< Intermediate Science >**
- 
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
-   📖**Secondary Schooling**
  
    
    
